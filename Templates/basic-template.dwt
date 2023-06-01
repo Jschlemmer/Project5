@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.submit_btn {
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<link href="../assests/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/kun4ycp.css">
+    <link rel="stylesheet" href="https://use.typekit.net/kun4ycp.css">
+	<link rel="stylesheet" href="https://use.typekit.net/kun4ycp.css">
+	<link rel="stylesheet" href="https://use.typekit.net/kun4ycp.css">
+	
+<div id="container">
+		 <header></header>
+		 <nav>
+		<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li> <a href="../pages/blog.html">blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery </a></li>
+		<li><a href="../pages/contact.html">Contact</a></li></ul>
+		
+		</nav>
+
+	
+  <aside> <h4 style="color: #000000; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;">I'm a student, A Friend, a Gamer, A Sports Nerd, a Band Kid, and "The Bald One" Join me as we travel across the world. </h4></aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1 style="font-family: Default Font'copperplate', 'serif;'">Contact Me</h1>
+  </main>
+  <!-- TemplateEndEditable -->
+<footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
